@@ -1,0 +1,14 @@
+{
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "Hack",
+  "editor.fontSize": 14,
+  "workbench.activityBar.visible": false,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.wordWrapColumn": 80,
+  "html.format.wrapLineLength": 120,
+  "editor.wordWrap": "on",
+  "editor.rulers": []
+}
